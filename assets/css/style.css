@@ -74,13 +74,17 @@ section {
     height: 600px;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 /* Hero Style End */
 
 .hero-form {
-    font-color: #024e76;
+    color: #024e76;
     background-color: #fce138;
     width: 500px;
     padding: 20px;
     border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
 }
